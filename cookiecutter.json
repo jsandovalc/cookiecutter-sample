@@ -1,0 +1,6 @@
+{
+    "project_name": "Prefect adapter",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author": "Anonymous",
+    "description": "Awesome adapter"
+}
