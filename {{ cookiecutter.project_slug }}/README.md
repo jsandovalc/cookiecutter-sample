@@ -4,7 +4,9 @@
 
 ## Install
 
-Insert poetry installation steps.
+Follow the poetry installation steps: https://python-poetry.org/docs/
+
+    $ poetry install
 
 ## Pre-commit
     $ pre-commit install
